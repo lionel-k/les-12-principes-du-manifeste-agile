@@ -383,33 +383,33 @@ Bref, si tu veux garder la maitrise de ton projet, intéresses toi à l'excellen
 
 ## 10 - Faire simple
 
-En tant qu’ingénieur, j’ai été formé à faire des choses compliquées. J’ai appris à résoudre des problèmes. C’est probablement ton cas également si tu as fait des études techniques. Mais par contre je n’ai pas été formé pour gérer la complexité.
+En tant qu'ingénieur, j'ai été formé à faire des choses compliquées. J'ai appris à résoudre des problèmes. C'est probablement ton cas également si tu as fait des études techniques. Mais par contre je n'ai pas été formé pour gérer la complexité.
 
 Compliqué et complexe sont deux notions bien différentes.
 
 - Faire un Airbus est compliqué : il faut beaucoup de connaissances pour en fabriquer un. - La météo est complexe : une faible variation de paramètres peut avoir un impact important.
 
-Si tu utilises un processus compliqué pour gérer un travail complexe, tu vas juste dans le mur. Faire du logiciel est un processus hautement complexe pour une raison simple : le facteur humain. L’humain est probablement une des entités les plus complexe que je connaisse.
+Si tu utilises un processus compliqué pour gérer un travail complexe, tu vas juste dans le mur. Faire du logiciel est un processus hautement complexe pour une raison simple : le facteur humain. L'humain est probablement une des entités les plus complexes que je connaisse.
 
 Le contraire de complexe est simple.
 
 Faire simple est difficile. Faire complexe est facile.
 
-Le 10ème principe du manifeste nous dit :
+Le dixième principe du manifeste nous dit :
 
-_La simplicité – c’est-à-dire l’art de minimiser la quantité de travail inutile – est essentielle._
+_La simplicité – c'est-à-dire l'art de minimiser la quantité de travail inutile – est essentielle._
 
 Minimiser la quantité de code inutile. Tout un programme…
 
-Il y a plusieurs manières pour ça… Le code le plus simple est encore celui qui n’est pas écrit… Si tu élimines le code qui n’est pas utilisé pour de vrai, tu gagnes combien ? Es-tu seulement capable de savoir quelles parties de l’application ne sont pas utilisées ? Ou a quelle fréquence ?
+Il y a plusieurs manières pour ça… Le code le plus simple est encore celui qui n'est pas écrit… Si tu élimines le code qui n'est pas utilisé pour de vrai, tu gagnes combien ? Es-tu seulement capable de savoir quelles parties de l'application ne sont pas utilisées ? Ou a quelle fréquence ?
 
-La question de l’expérience utilisateur est centrale.
+La question de l'expérience utilisateur est centrale.
 
-Ensuite il s’agit de savoir faire pour minimiser le code avec un principe simple en fil d’ariane : don’t repeat yourself. Si tu ne minimise pas ton code, tu te retrouves avec un code lourd à faire bouger. Tu auras moins tendance à le refactoriser et le faire propre. Un code lourd c’est aussi du code dupliqué. La duplication est la mère de tous les maux.
+Ensuite, il s'agit de savoir faire pour minimiser le code avec un principe simple en fil d'ariane : don't repeat yourself. Si tu ne minimises pas ton code, tu te retrouves avec un code lourd à faire bouger. Tu auras moins tendance à le refactoriser et le faire propre. Un code lourd c'est aussi du code dupliqué. La duplication est la mère de tous les maux.
 
-Donc aujourd’hui je te propose un exercice : supprime au moins 30 lignes de code.
+Donc aujourd'hui je te propose un exercice : supprime au moins 30 lignes de code.
 
-Cherche dans ton code ce qui peut être refactorisé, dédupliqué ou simplement supprimé car ce n’est plus utilisé.
+Cherche dans ton code ce qui peut être refactorisé, dédupliqué ou simplement supprimé, car ce n'est plus utilisé.
 
 ## 11 - Auto-organisation et performance
 
