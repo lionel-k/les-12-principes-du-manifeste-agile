@@ -413,39 +413,39 @@ Cherche dans ton code ce qui peut être refactorisé, dédupliqué ou simplement
 
 ## 11 - Auto-organisation et performance
 
-Dans les approches classiques, il y a ceux qui pensent et ceux qui font. Hérité des systèmes de management militaires, l’enjeu est de réduire les coûts de synchronisation : le système pyramidal est celui qui minimise le nombre d’interactions.
+Dans les approches classiques, il y a ceux qui pensent et ceux qui font. Hérité des systèmes de management militaires, l'enjeu est de réduire les coûts de synchronisation : le système pyramidal est celui qui minimise le nombre d'interactions.
 
-Donc je récapitule : il y a ceux qui pensent et mettent au point le plan. Et puis ensuite on transmet aux développeurs qui n’ont plus qu’à coder. Enfin on recette et tout va pour le mieux dans le meilleur des mondes.
+Donc je récapitule : il y a ceux qui pensent et mettent au point le plan. Et puis ensuite on transmet aux développeurs qui n'ont plus qu'à coder. Enfin on recette et tout va pour le mieux dans le meilleur des mondes.
 
-Sauf que tu sais comme moi que cette vision idéaliste est une pure chimère. Un fantasme rassurant. Du coup certains essaient d’être encore plus précis. D’encore mieux anticiper... D’économiser le temps de chacun en limitant les interactions.
+Sauf que tu sais comme moi que cette vision idéaliste est une pure chimère. Un fantasme rassurant. Du coup certains essaient d'être encore plus précis, d'encore mieux anticiper... D'économiser le temps de chacun en limitant les interactions.
 
-Sauf que, comme le précise le manifeste:
+Sauf que, comme le précise le manifeste :
 
 _Les meilleures architectures, spécifications et conceptions émergent d'équipes auto-organisées._
 
-- Auto organisation : Une équipe auto organisée s’organise elle même. Derrière ce truisme se cache une idée très puissante : se sont les collaborateurs au contact du terrain qui sont les mieux placés pour savoir ce qui est à faire et comment le faire. Fini les grands plans théoriques. On réfléchit à même le terrain. L’auto-organisation implique une autre idée : la responsabilité collective. Ce n’est plus un chef qui est responsable mais toute l’équipe. Si quelque chose est à faire, juste fait le. Il faut comprendre un point important : en donnant plus la responsabilité à l’un qu’à l’autre, je déresponsabilise l’autre. Si je veux impliquer tout le monde, la première étape est de les responsabiliser. Ces notions sont perturbantes et un peu flippantes, surtout pour le manager d’avant. Que devient-il dans cette nouvelles façon de voir le monde ? C’est simple : il est au service de l’équipe. Il met en place le contexte qui permet la performance puis il laisse faire. - Émergence : Autre point important. On laisse émerger les choses : le design, le fonctionnement de l’équipe, le produit. Inutile de chercher à tout anticiper. Mieux vaut adapter les choses au fur et à mesure. De toute façon l’environnement est devenu tellement changeant qu’anticiper devient un gaspillage d’énergie. Mieux vaut mettre son énergie à préparer le changement. Se tenir prêt pour l’accepter quand il survient. Ainsi je ne cherche pas à tout concevoir en amont. Grâce au tdd, je peux concevoir au fur et à mesure de mes besoins. Grâce aux rétrospectives, je collecte du feed-back sur le fonctionnement de l’équipe et elle s’améliore en continu.
+- Auto organisation : une équipe auto organisée s'organise elle-même. Derrière ce truisme se cache une idée très puissante : ce sont les collaborateurs au contact du terrain qui sont les mieux placés pour savoir ce qui est à faire et comment le faire. Fini les grands plans théoriques. On réfléchit à même le terrain. L'auto-organisation implique une autre idée : la responsabilité collective. Ce n'est plus un chef qui est responsable mais toute l'équipe. Si quelque chose est à faire, juste fais-le. Il faut comprendre un point important : en donnant plus la responsabilité à l'un qu'à l'autre, je déresponsabilise l'autre. Si je veux impliquer tout le monde, la première étape est de les responsabiliser. Ces notions sont perturbantes et un peu flippantes, surtout pour le manager d'avant. Que devient-il dans cette nouvelle façon de voir le monde ? C'est simple : il est au service de l'équipe. Il met en place le contexte qui permet la performance puis il laisse faire. - Émergence : Autre point important. On laisse émerger les choses : le design, le fonctionnement de l'équipe, le produit. Inutile de chercher à tout anticiper. Mieux vaut adapter les choses au fur et à mesure. De toute façon l'environnement est devenu tellement changeant qu'anticiper devient un gaspillage d'énergie. Mieux vaut mettre son énergie à préparer le changement. Se tenir prêt pour l'accepter quand il survient. Ainsi je ne cherche pas à tout concevoir en amont. Grâce au tdd, je peux concevoir au fur et à mesure de mes besoins. Grâce aux rétrospectives, je collecte du feed-back sur le fonctionnement de l'équipe et elle s'améliore en continu.
 
-C’est l’objet du point suivant !
+C'est l'objet du point suivant !
 
 ## 12 - Amélioration continue
 
 Est-ce que tu connais les post-mortem ?
 
-C’est une réunion de fin de projet qui a pour but de faire un bilan et tirer les enseignements utiles du retour d’expérience. Cette approche a deux inconvénients majeurs :
+C'est une réunion de fin de projet qui a pour but de faire un bilan et tirer les enseignements utiles du retour d'expérience. Cette approche a deux inconvénients majeurs :
 
-- Les améliorations potentielles ne seront utiles qu’au prochain projet. Le bénéfice est en fait un bénéfice potentiel futur. Pour peu que l’équipe soit dissoute à la fin, difficile pour les participants d’être impliqués. - Cela demande un effort de structuration et de gestion des connaissances acquises. Et cela ne s’improvise pas. Il faut concentrer et diffuser les leçons apprises. Cela demande de l’énergie et si personne n’est attitrée à la tâche, ce sera à faire en plus du quotidien. Empiler les rex dans une gestion électronique de documents ou dans un wiki ne va pas magiquement diffuser les connaissances acquises.
+- Les améliorations potentielles ne seront utiles qu'au prochain projet. Le bénéfice est en fait un bénéfice potentiel futur. Pour peu que l'équipe soit dissoute à la fin, difficile pour les participants d'être impliqués. - Cela demande un effort de structuration et de gestion des connaissances acquises. Et cela ne s'improvise pas. Il faut concentrer et diffuser les leçons apprises. Cela demande de l'énergie et si personne n'est attitrée à la tâche, ce sera à faire en plus du quotidien. Empiler les rex dans une gestion électronique de documents ou dans un wiki ne va pas magiquement diffuser les connaissances acquises.
 
-Pourtant l’amélioration continue est un pilier de l’agilité. D’ailleurs le 12 eme principe du manifeste nous dit :
+Pourtant, l'amélioration continue est un pilier de l'agilité. D'ailleurs le 12e principe du manifeste nous dit :
 
 _À intervalles réguliers, l'équipe réfléchit aux moyens de devenir plus efficace, puis règle et modifie son comportement en conséquence._
 
-Il y a cette idée que ces rendez-vous d’amélioration sont programmés. On y alloue de l’énergie spécifiquement. Mais surtout, il sont fait en cours de projet !
+Il y a cette idée que ces rendez-vous d'amélioration sont programmés. On y alloue de l'énergie spécifiquement. Mais surtout, ils sont faits en cours de projet !
 
-Inutile de faire des grands plans qui révolutionnent le monde : on n’aura pas l’énergie pour les mettre en oeuvre. Plutôt que chercher un espèce de monde parfait, l’agilité se concentre sur des actions modeste mises en oeuvre réellement. Et si tu as l’énergie de mettre en oeuvre des actions ambitieuses, tant mieux. Du moment que tu fais des choses concrètes pour améliorer la situation maintenant.
+Inutile de faire de grands plans qui révolutionnent le monde : on n'aura pas l'énergie pour les mettre en oeuvre. Plutôt que chercher un espèce de monde parfait, l'agilité se concentre sur des actions modestes mises en oeuvre réellement. Et si tu as l'énergie de mettre en oeuvre des actions ambitieuses, tant mieux. Du moment que tu fais des choses concrètes pour améliorer la situation maintenant.
 
-Quand j’anime l’atelier du ball point game, je suis toujours frappé par les écarts de vélocité entre la première itération et les suivantes. C’est la même chose dans le travail quotidien : chercher à améliorer la collaboration coûte de l’énergie et génère de grands bénéfices. C’est donc un investissement.
+Quand j'anime l'atelier du ball point game, je suis toujours frappé par les écarts de vélocité entre la première itération et les suivantes. C'est la même chose dans le travail quotidien : chercher à améliorer la collaboration coûte de l'énergie et génère de grands bénéfices. C'est donc un investissement.
 
-La difficulté est que c’est rarement le moment de faire ça. Les fins d’itération s’y prêtent bien. Mais encore faut-il avoir le courage d’arrêter de produire pour se poser et réfléchir collectivement.
+La difficulté est que c'est rarement le moment de faire ça. Les fins d'itération s'y prêtent bien. Mais encore faut-il avoir le courage d'arrêter de produire pour se poser et réfléchir collectivement.
 
 ## The end
 
