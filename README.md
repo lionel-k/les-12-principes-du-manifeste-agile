@@ -4,15 +4,15 @@
 
 **Artisan Développeur**
 
-Le manifeste n’est plut tout jeune. Les premiers développeurs nés après son écriture arrivent sur le marché du travail.
+Le manifeste n'est pas du tout jeune. Les premiers développeurs nés après son écriture arrivent sur le marché du travail.
 
-Si les 4 piliers ont souvent été repris et commentés, j’ai vu moins de choses sur les 12 principes. Pourtant, ils sont de précieux guides sur comment mettre en oeuvre la démarche.
+Si les quatre piliers ont souvent été repris et commentés, j'ai vu moins de choses sur les 12 principes. Pourtant, ils sont de précieux guides sur comment mettre en oeuvre la démarche.
 
-En plus ils ont traversé le temps sans une ride : la sagesse qu’ils nous livrent restent plus que jamais d’actualité.
+De plus, ils ont traversé le temps sans une ride : la sagesse qu'ils nous livrent restent plus que jamais d'actualité.
 
-Je te propose de les étudier dans cet article. Ce dernier m’aura pris 12h à écrire pendant lesquelles j’ai consommé 18 litres de thé.
+Je te propose de les étudier dans cet article. Ce dernier m'aura pris 12h à écrire pendant lesquelles j'ai consommé18 litres de thé.
 
-Alors prends ta boisson préférée, et cale toi. Y’en a environ pour 30 minutes.
+Alors, prends ta boisson préférée et cale toi. Il y en a environ pour 30 minutes.
 
 Tu peux également écouter en streaming ou télécharger la série [en venant sur le podcast](https://soundcloud.com/benoitgantaume) ou sur le blog http://artisandeveloppeur.fr
 
