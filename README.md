@@ -123,15 +123,15 @@ Mais dans notre cas : le logiciel est immatériel. Du coup on peut déplacer des
 
 ## 3 - Livrer fréquemment
 
-Les sponsors du projet, le client ou les utilisateurs se font une idée à priori de ce que sera le logiciel.
+Les sponsors du projet, le client ou les utilisateurs se font une idée a priori de ce que sera le logiciel.
 
-Sauf que dans la vrai vie 50% des idées sont de fausses bonnes idées.
+Sauf que dans la vraie vie 50 % des idées sont de fausses bonnes idées.
 
-Tu crois que tu sais, mais dès que tu vois le logiciel vivre sous tes yeux, c’est plus pareil : certaines portes se ferment, d’autres s’ouvrent.
+Tu crois que tu sais, mais dès que tu vois le logiciel vivre sous tes yeux, c'est plus pareil : certaines portes se ferment, d'autres s'ouvrent.
 
-Dès que tu mets l’app entre les mains des utilisateurs, c’est pire ! Ils ont plein d’idées les bougres !
+Dès que tu mets l'application entre les mains des utilisateurs, c'est pire ! Ils ont plein d'idées les bougres !
 
-On peut limiter avec des wireframes, mais il n’y a pas forcement des vrais données. Un détail d’implémentation peut devenir un cauchemar à coder…
+On peut limiter avec des wireframes, mais il n'y a pas forcément de vraies données. Un détail d'implémentation peut devenir un cauchemar à coder…
 
 Comment on limite le gaspillage ?
 
@@ -139,13 +139,14 @@ Comment fait-on pour recueillir le feedback dès que possible pour adapter les o
 
 _Livrez fréquemment un logiciel opérationnel avec des cycles de quelques semaines à quelques mois et une préférence pour les plus courts._
 
-Si tu attends 2 mois pour livrer un truc, tu prends des risques !
+Si tu attends deux mois pour livrer un truc, tu prends des risques !
 
-En ce moment je bosse sur un projet où la livraison est dans 2 semaines. Si j’attends 2 semaines pour livrer et avoir du feedback, on est dans les choux !
+En ce moment je bosse sur un projet où la livraison est dans deux semaines. Si j'attends deux semaines pour livrer et avoir du feedback, on est dans les choux !
 
-Venant de l’XP, je livre plusieurs fois par jour ! Mais pour que ce soit possible, il y a quelques condition :
+Venant de l'XP, je livre plusieurs fois par jour ! Mais pour que ce soit possible, il y a quelques conditions :
 
-- Le build est automatisé, comme le déploiement. - La recette est automatisée, avant même d’avoir écrit le code.
+- Le build est automatisé, comme le déploiement.
+- La recette est automatisée, avant même d'avoir écrit le code.
 
 Dans ces conditions, je peux livrer à chaque morceau, chaque user story, ça ne coûte rien de plus !
 
@@ -153,31 +154,35 @@ On installe une version de pré-prod pour les beta testeurs et en voiture Simone
 
 Je connais même des équipes qui automatisent le déploiement de branches intermédiaires pour que le product owner se fasse une idée de la fonctionnalité en cours de développement avant la fusion sur develop... Bravo les gars !
 
-Grâce à l’intégration et au déploiement continue tout le monde peut voir quasiment en temps réel les avancées du projet !
+Grâce à l'intégration et au déploiement continue tout le monde peut voir quasiment en temps réel les avancées du projet !
 
-Tu peux collecter du feedback en cours de route et adapter au plus près du besoin en évitant de développer trop de fausse bonnes idées !
+Tu peux collecter du feedback en cours de route et adapter au plus près du besoin en évitant de développer trop de fausses bonnes idées !
 
 ## 4 - User centric
 
-En tant que développeur, j’aime ce qui est technique. Comme souvent chez mes confrères.
+En tant que développeur, j'aime ce qui est technique. Comme souvent chez mes confrères.
 
-Le risque est à un moment de perdre de vue pour qui on travaille : on travaille pour son employeur bien sûr, mais la finalité de notre travail, c’est l’utilisateur qui est derrière.
+Le risque est à un moment de perdre de vue pour qui on travaille : on travaille pour son employeur bien sûr, mais la finalité de notre travail, c'est l'utilisateur qui est derrière.
 
 Sans utilisateur, à quoi sert notre travail ?
 
 Si les utilisateurs et les développeurs sont trop éloignés :
 
-- on peut les oublier. Et réciproquement d’ailleurs. - on peut aussi faire des choses qui ne collent pas aux besoins : que ce soit la gestion du métier ou dans la manière de faire les choses. - on peut les percevoir comme des casses pied : j’avoue que ça a pu m’arriver quelques fois de pester contre certaines demandes...
+- on peut les oublier. Et réciproquement d'ailleurs. - on peut aussi faire des choses qui ne collent pas aux besoins : que ce soit la gestion du métier ou dans la manière de faire les choses. - on peut les percevoir comme des casses pied : j'avoue que cela a pu m'arriver quelques fois de pester contre certaines demandes...
 
-Faire grandir un logiciel est déjà un challenge sur le plan technique et ça absorbe beaucoup d’énergie.
+Faire grandir un logiciel est déjà un challenge sur le plan technique et cela absorbe beaucoup d'énergie.
 
 Donc pour éviter ces écueils, le manifeste nous rappelle :
 
 _Les utilisateurs ou leurs représentants et les développeurs doivent travailler ensemble quotidiennement tout au long du projet._
 
-- Utilisateur : On est centré usage. Si on veut apporter de la valeur en tant que développeur, il faut s’intéresser à l’usage de ce qui est produit. Je suis toujours fasciné pas ces environnements dans lesquels les développeurs sont coupés des utilisateurs. Comment cela peut-il être efficace ? - Représentant : pas toujours possible de parler à tout le monde. T’imagines la taille de la salle de réunion si tu as 2.000 utilisateurs... Ou 100.000 ? On a donc parfois besoin d’un utilisateur proxy. Idéalement, il est lui-même utilisateur de la solution. - Travaille ensemble : on est dans le même bateau : même si t’es payé par quelqu’un d’autre. L’utilisateur, c’est pour lui qu’on bosse… - Quotidiennement : tous les jours faire un point. C’est comme ta branche, si tu attends trop, elle dérive et le merge va être plus difficile ! - Tout au long du projet : pas juste au début ou à la fin : tout au long du projet.
+- Utilisateur : On est centré usage. Si on veut apporter de la valeur en tant que développeur, il faut s'intéresser à l'usage de ce qui est produit. Je suis toujours fasciné pas ces environnements dans lesquels les développeurs sont coupés des utilisateurs. Comment cela peut-il être efficace ?
+- Représentant : pas toujours possible de parler à tout le monde. T'imagines la taille de la salle de réunion si tu as 2.000 utilisateurs... Ou 100.000 ? On a donc parfois besoin d'un utilisateur proxy. Idéalement, il est lui-même utilisateur de la solution.
+- Travaille ensemble : on est dans le même bateau : même si tu es payé par quelqu'un d'autre. L'utilisateur, c'est pour lui qu'on bosse…
+- Quotidiennement : tous les jours faire un point. C'est comme ta branche, si tu attends trop, elle dérive et le merge va être plus difficile !
+- Tout au long du projet : pas juste au début ou à la fin : tout au long du projet.
 
-On bosse ensemble pendant tout le projet au fur et à mesure ce qui permet de collecter du feedback, de mieux comprendre le métier et d’éviter le gaspillage. Il faut donc garder l’utilisateur en tête et se synchroniser avec lui régulièrement. L’utilisation de personas peut aider : tu l’imprimes à côté de ton écran et quand tu as un doute tu te demandes comment il aurait fait ou de quoi il aurait besoin.
+On bosse ensemble pendant tout le projet au fur et à mesure ce qui permet de collecter du feedback, de mieux comprendre le métier et d'éviter le gaspillage. Il faut donc garder l'utilisateur en tête et se synchroniser avec lui régulièrement. L'utilisation de personas peut aider : tu l'imprimes à côté de ton écran et quand tu as un doute tu te demandes comment il aurait fait ou de quoi il aurait besoin.
 
 ## 5 - Une équipe motivée
 
