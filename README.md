@@ -449,11 +449,8 @@ La difficulté est que c'est rarement le moment de faire ça. Les fins d'itérat
 
 ## The end
 
-J’espère que ce voyage t’aura plu. Si tu veux aller plus loin, je t’invite à t’inscrire et rejoindre la communauté sur http:// artisandeveloppeur.fr
+J'espère que ce voyage t'aura plu. Si tu veux aller plus loin, je t'invite à t'inscrire et rejoindre la communauté sur http:// artisandeveloppeur.frJe suis également curieux de ton retour. Tu peux m'écrire à benoit@artisandeveloppeur.fr pour me dire ce que tu as apprécié ou ce qui t'a dérangé.
 
-Je suis également curieux de ton retour. Tu peux m’écrire à benoit@artisandeveloppeur.fr pour me dire ce que tu as apprécié ou ce qui t’a dérangé.
-
-Enfin, je t’invite à partager ce livret avec un maximum de monde!
+Enfin, je t'invite à partager ce livret avec un maximum de monde !
 
 A demain.
-
