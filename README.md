@@ -19,41 +19,42 @@ Tu peux également écouter en streaming ou télécharger la série [en venant s
 
 ## 1 - Livrer rapidement et régulièrement
 
-As-tu déjà entendu parler de l’effet tunnel ?
+As-tu déjà entendu parler de l'effet tunnel ?
 
-Cela vient des tunnels. Original, n’est-ce pas ?
+Cela vient des tunnels. Original, n'est-ce pas ?
 
-As-tu déjà pris un long tunnel, comme celui qui va de France vers l’Italie sous le mont Blanc. C’est long.
+As-tu déjà pris un long tunnel, comme celui qui va de France vers l'Italie sous le mont Blanc. C'est long.
 
-Dans un tunnel, tu as rarement d’indication sur là où tu en es du tunnel.
+Dans un tunnel, tu as rarement d'indication sur là où tu en es du tunnel.
 
-Et si tu utilises un GPS, tu verras qu’il est paumé dans un tunnel.
+Et si tu utilises un GPS, tu verras qu'il est paumé dans un tunnel.
 
 Tu perds tes outils de navigation pour te repérer.
 
-Alors qu’en dehors du tunnel, tout va bien : tu sais ou tu en es de ton trajet, même s’il y a des bouchons.
+Alors qu'en dehors du tunnel, tout va bien : tu sais où tu en es de ton trajet, même s'il y a des bouchons.
 
-Et d’ailleurs à un moment donné, tu vois la fameuse lumière au bout du tunnel. Et tu te dis : ok, on est bientôt sorti du tunnel !
+Et d'ailleurs à un moment donné, tu vois la fameuse lumière au bout du tunnel. Et tu te dis : ok, on est bientôt sorti du tunnel !
 
-Le problème des approches type cycle en V ou cascade, c’est que tu as un super effet tunnel. Tu en as même deux en fait.
+Le problème des approches du type cycle en V ou cascade, c'est que tu as un super effet tunnel. Tu en as même deux en fait.
 
-- Un premier effet lié à l’usage par l’utilisateur. Est-ce que ce je vais livrer correspond à ce qui a été demandé ? Ou plus existentiel, à ce dont l’utilisateur a besoin. - Un second effet tunnel technique : quand à la fin tous les composants sont assemblés d’un coup. C’est le moment où on se rend compte de ce qui marche ou pas.
+- Un premier effet lié à l'usage par l'utilisateur. Est-ce que ce je vais livrer correspond à ce qui a été demandé ? Ou plus existentiel, à ce dont l'utilisateur a besoin.
+- Un second effet tunnel technique : quant à la fin tous les composants sont assemblés d'un coup. C'est le moment où on se rend compte de ce qui marche ou pas.
 
-Le problème de ces approches est qu’elles ne permettent pas d’avoir du feedback, de savoir où on en est.
+Le problème de ces approches est qu'elles ne permettent pas d'avoir du feedback, de savoir où on en est.
 
-Or dans un projet informatique, un bon 50% des hypothèses initiales s’avèrent fausses en cours de route. C’est un chiffre empirique pas du tout scientifique basé sur mon expérience : entre l’idée initiale et ce qui est réellement mis en ouvre et utilisé, il y a un bon 50% de perte. Et encore, je suis optimiste.
+Or dans un projet informatique, un bon 50 % des hypothèses initiales s'avèrent fausses en cours de route. C'est un chiffre empirique qui n'est pas du tout scientifique basé sur mon expérience : entre l'idée initiale et ce qui est réellement mis en ouvre et utilisé, il y a un bon 50 % de perte. Et encore, je suis optimiste.
 
-Donc 50% de choses à jeter… Et si on évitait de développer ces choses qui ne servent à rien ?
+Donc 50 % de choses à jeter… Et si on évitait de développer ces choses qui ne servent à rien ?
 
-De plus le besoin évolue. Donc si tu es dans un projet sans pouvoir collecter du feedback pendant plusieurs mois tu prends le risque que l’objectif réel change en cours de route sans même s’en rendre compte.
+De plus, le besoin évolue. Donc si tu es dans un projet sans pouvoir collecter du feedback pendant plusieurs mois tu prends le risque que l'objectif réel change en cours de route sans même s'en rendre compte.
 
-Et là, c’est beaucoup plus que 50% que tu vas jeter.
+Et là, c'est beaucoup plus de 50 % que tu vas jeter.
 
-Tant qu’il n’y a pas de feedback, on ne s’est pas assuré d’avoir compris le besoin réel du client. Or dans le meilleur des cas ce dernier croit qu’il sait ce qu’il veut. Mais dans la vraie vie, il se trompe. Beaucoup.
+Tant qu'il n'y a pas de feedback, on ne s'est pas assuré d'avoir compris le besoin réel du client. Or dans le meilleur des cas ce dernier croit qu'il sait ce qu'il veut. Mais dans la vraie vie, il se trompe. Beaucoup.
 
-Quand je parle de client, c’est autant un client qu’un manager, product owner, utilisateur… Et quand je dis qu’il croit qu’il sait ce qu’il veut, ce n’est pas qu’il a une mauvaise vision de son marché. C’est qu’il fait des hypothèses. Or tu ne peux te faire une idée concrète sur un logiciel qu’une fois dans tes mains. C’est quelque chose qui me fascine : même quand je suis dans le siège du product owner pour nos propres projets, je me rend compte que ce n’est qu’une fois le logiciel dans les mains que j’imagine l’étape suivante. Et j’ai souvent des surprises.
+Quand je parle de client, c'est autant un client qu'un manager, product owner, utilisateur… Et quand je dis qu'il croit qu'il sait ce qu'il veut, ce n'est pas qu'il ait une mauvaise vision de son marché. C'est qu'il fait des hypothèses. Or tu ne peux te faire une idée concrète sur un logiciel qu'une fois dans tes mains. C'est quelque chose qui me fascine : même quand je suis dans le siège du product owner pour nos propres projets, je me rends compte que ce n'est qu'une fois le logiciel dans les mains que j'imagine l'étape suivante. Et j'ai souvent des surprises.
 
-Développer un logiciel sans prendre de feedback, c’est un peu comme assaisonner un plat sans goûter. Ça sera toujours trop ou pas assez salé. Même dans top chef ils se plantent s’ils ne goûtent pas…
+Développer un logiciel sans prendre de feedback, c'est un peu comme assaisonner un plat sans goûter. Ça sera toujours trop ou pas assez salé. Même dans top chef ils se plantent s'ils ne goûtent pas…
 
 Recueillir du feedback est fondamental.
 
@@ -61,61 +62,64 @@ Le premier principe nous dit :
 
 _Notre plus haute priorité est de satisfaire le client en livrant rapidement et régulièrement des fonctionnalités à grande valeur ajoutée._
 
-- Satisfaire : apporter ce dont le client a besoin. Souviens toi : ce dont il a besoin n’est pas forcement ce qu’il veut. Mais il ne s’en rendra compte qu’une fois l’application dans les mains. - En livrant rapidement : on n’est pas sur une logique d’attendre x semaines ou mois. Non rapidement, c’est quelques jours. Même dans le SCRUM, je te déconseille d’attendre la revue de sprint pour demander du feedback à ton Product Owner. - A grande valeur ajoutée : on va commencer par ce qui apporte le plus de valeur pour le client. Cela permettra en cours de route d’ajuster les choses. Si tout ne rentre pas dans le calendrier, vaut-il mieux avoir développer 10 choses peu importantes ou 2 choses vraiment importantes qui amènent de la valeur ?
+- Satisfaire : apporter ce dont le client a besoin. Souviens toi : ce dont il a besoin n'est pas forcement ce qu'il veut. Mais il ne s'en rendra pas compte qu'une fois l'application dans les mains.
+- En livrant rapidement : on n'est pas sur une logique d'attendre x semaines ou mois. Non rapidement, c'est quelques jours. Même dans le SCRUM, je te déconseille d'attendre la revue de sprint pour demander du feedback à ton Product Owner.
+- A grande valeur ajoutée : on va commencer par ce qui apporte le plus de valeur pour le client. Cela permettra en cours de route d'ajuster les choses. Si tout ne rentre pas dans le calendrier, vaut-il mieux avoir développé 10 choses peu importantes ou deux choses vraiment importantes qui amènent de la valeur ?
 
-Il suffit de montrer régulièrement le travail en cours au client. Attention, tous ne sont pas habitués et dès qu’il va voir quelque chose, il risque de réfléchir avec une logique de produit fini. Ça peut prendre du temps à intégrer. A toi de le prendre par la main et lui expliquer que c’est une livraison intermédiaire pour collecter du feedback. Et tu verras que ça apportera beaucoup : plus l’échange sera fréquent et plus le projet avancera dans la bonne direction.
+Il suffit de montrer régulièrement le travail en cours au client. Attention, tous ne sont pas habitués et dès qu'il va voir quelque chose, il risque de réfléchir avec une logique de produit fini. Ça peut prendre du temps à intégrer. À toi de le prendre par la main et lui expliquer que c'est une livraison intermédiaire pour collecter du feedback. Et tu verras que cela apportera beaucoup : plus l'échange sera fréquent et plus le projet avancera dans la bonne direction.
 
 ## 2 - Accueillir positivement les changements
 
 As-tu déjà eu ce client en phase de recette qui te dit un truc du genre :
 
-_“Oui, mais en fait non. J’ai changé d’avis…”_
+_“Oui, mais en fait non. J'ai changé d'avis…”_
 
-Et là quelle est la réaction typique d’un développeur ?
+Et là quelle est la réaction typique d'un développeur ?
 
-Dans sa tête : _“Ahhhh ! Non ! Pitié ! Qu’est-ce qui se passe ? “_
+Dans sa tête : _“Ahhhh ! Non ! Pitié ! Qu'est-ce qui se passe ? “_
 
-Au client : _“ Ah ben c’est à dire que là c’est la livraison…
+Au client : _“ Ah ben c'est-à-dire que là c'est la livraison…
 
-C’était pas prévu… Vous ne vous rendez pas compte ! Il faut tout refaire…”_
+Ce n'était pas prévu… Vous ne vous rendez pas compte ! Il faut tout refaire…”_
 
-Le vrai problème fondamentalement est qu’on essaie trop d’anticiper dans les approches classiques. Pourquoi ?
+Le vrai problème fondamentalement est qu'on essaie trop d'anticiper dans les approches classiques. Pourquoi ?
 
-Par-ce qu’on nous a appris que le coût du changement variait de manière exponentielle en fonction du temps. Du coup il vaut mieux être sûr de son coup en amont car le prix du changement explose en fonction du temps.
+Parce qu'on nous a appris que le coût du changement variait de manière exponentielle en fonction du temps. Du coup il vaut mieux être sûr de son coup en amont parce que le prix du changement explose en fonction du temps.
 
-Pourtant si le client demande un changement, c’est qu’il y a une bonne raison. Il ne s’est pas juste levé ce matin en se disant : tient je vais tout changer… En général s’il le fait, vu qu’il paye directement ou indirectement, c’est qu’il y a une nécessité.
+Pourtant, si le client demande un changement, c'est qu'il y a une bonne raison. Il ne s'est pas juste levé ce matin en se disant : tient je vais tout changer… En général s'il le fait, vu qu'il paye directement ou indirectement, c'est qu'il y a une nécessité.
 
 Quelle est alors notre responsabilité de développeur ?
 
 _Accueillez positivement les changements de besoins, même tard dans le projet. Les processus Agiles exploitent le changement pour donner un avantage compétitif au client._
 
-Il s’agit bien d’un avantage compétitif : c’est à dire permettre au client d’aller plus vite, plus fort, plus loin pour qu’il continue de nous nourrir. C’est aussi simple que ça. Si le client est content et qu’il gagne sa croûte, nous aussi !
+Il s'agit bien d'un avantage compétitif : c'est-à-dire permettre au client d'aller plus vite, plus fort, plus loin pour qu'il continue de nous nourrir. C'est aussi simple que ça. Si le client est content et qu'il gagne sa croûte, nous aussi !
 
-Encore une fois c’est vrai quelque soit le client : interne ou externe, c’est pareil.
+Encore une fois c'est vrai quel que soit le client : interne ou externe, c'est pareil.
 
 Par contre, comment faire pour que ce soit possible ?
 
-Ils sont gentils les gars du manifeste, mais encore faut-il pouvoir les encaisser les changements, surtout quand il arrivent tard dans le projet.
+Ils sont gentils les gars du manifeste, mais encore faut-il pouvoir les encaisser les changements, surtout quand ils arrivent tard dans le projet.
 
-J’ai connu des projets dont l’architecture explosait complètement à la première demande de changement.
+J'ai connu des projets dont l'architecture explosait complètement à la première demande de changement.
 
 Pour pouvoir rester serein et accueillir le changement positivement, il faut être prêt à le faire. Il faut rester disponible dans sa tête et garder une architecture souple. Vraiment.
 
-Pour moi cela passe par les pratiques d’ingénierie logicielle de l’eXtreme Programming. Je reconnais que je ne suis pas très objectif, je suis tombé dans la marmite quand j’étais petit. C’est aussi ce que ce je reproche au SCRUM : il ne se soucie pas de la question technique. Il part du principe que chacun sait bien faire son travail. Ok. Mais si tu ne fais qu’accélérer les processus sans prendre en compte l’ingénierie technique, tu vas juste dans le mur. A un moment ou un autre, tu vas te planter.
+Pour moi cela passe par les pratiques d'ingénierie logicielle de l'eXtreme Programming. Je reconnais que je ne suis pas très objectif, je suis tombé dans la marmite quand j'étais petit. C'est aussi ce que ce je reproche au SCRUM : il ne se soucie pas de la question technique. Il part du principe que chacun sait bien faire son travail. Ok. Mais si tu ne fais qu'accélérer les processus sans prendre en compte l'ingénierie technique, tu vas juste dans le mur. À un moment ou un autre, tu vas te planter.
 
-Je suis convaincu que des pratiques comme le TDD, l’intégration continue, les boucles de feedback rapides, permettent justement d’accueillir les changements même tard dans le projet:
+Je suis convaincu que des pratiques comme le TDD, l'intégration continue, les boucles de feedback rapides, permettent justement d'accueillir les changements même tard dans le projet :
 
-- Par ce qu’on a une architecture souple. - Par ce qu’on peut tester rapidement une idée et son impact.
+- Parce qu'on a une architecture souple.
+- Parce qu'on peut tester rapidement une idée et son impact.
 
 Tout ça nous rend disponible et nous rassure pour avancer.
 
-Faire des gros changements, c’est un peu comme déplacer le mur porteur d'un bâtiment avec des gens qui habitent dedans.
+Faire des gros changements, c'est un peu comme déplacer le mur porteur d'un bâtiment avec des gens qui habitent dedans.
 
-Sur un vrai bâtiment, on se rend compte que ça va pas le faire.
+Sur un vrai bâtiment, on se rend compte que ça ne va pas le faire.
 
-Mais dans notre cas : le logiciel est immatériel. Du coup on peut déplacer des modules centraux hyper-critiques tout en ayant des utilisateurs qui sont en train d’utiliser le système. Mais cela demande d’avoir de bonnes pratiques d’ingénierie.
+Mais dans notre cas : le logiciel est immatériel. Du coup on peut déplacer des modules centraux hyper-critiques tout en ayant des utilisateurs qui sont en train d'utiliser le système. Mais cela demande d'avoir de bonnes pratiques d'ingénierie.
 
-Ça demande du savoir faire et un goût pour le travail bien fait. Et ce n’est pas forcement répandu.
+Ça demande du savoir faire et un goût pour le travail bien fait. Et ce n'est pas forcement répandu.
 
 ## 3 - Livrer fréquemment
 
