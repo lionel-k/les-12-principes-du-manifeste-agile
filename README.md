@@ -186,43 +186,43 @@ On bosse ensemble pendant tout le projet au fur et à mesure ce qui permet de co
 
 ## 5 - Une équipe motivée
 
-_Réalisez les projets avec des personnes motivées. Fournissez-leur l’environnement et le soutien dont ils ont besoin et faites-leur confiance pour atteindre les objectifs fixés._
+_Réalisez les projets avec des personnes motivées. Fournissez-leur l'environnement et le soutien dont ils ont besoin et faites-leur confiance pour atteindre les objectifs fixés._
 
 Cela me semble tellement une évidence, que je suis un peu sec...
 
-- Motivé : oui, évidemment... Si le collaborateur n’est pas motivé cela va prendre une énergie folle de l’impliquer, de vérifier son travail, d’attendre après lui. Sans compter les dégâts moins visibles : les petites remarques ci et là. La démotivation est une maladie contagieuse. - Fournissez leur l’environnement et le soutien dont ils sont besoin : Comment peut-il en être autrement ? Ah ! Si ! Je me souviens de missions dans laquelle j’ai été recruté pour aider à fabriquer un logiciel et j’ai attendu 3 jours pour avoir un ordinateur... J’ai eu le temps d’apprendre la spec de 4 pages par coeur... Tu sais il y a aussi ces endroits dans lesquels on te dit : en fait, débrouille toi tout seul. Ou personne ne te répond. Comment peut-on espérer livrer quelque chose dans ces conditions ?
+- Motivé : oui, évidemment... Si le collaborateur n'est pas motivé cela va prendre une énergie folle de l'impliquer, de vérifier son travail, d'attendre après lui. Sans compter les dégâts moins visibles : les petites remarques ci et là. La démotivation est une maladie contagieuse. - Fournissez leur l'environnement et le soutien dont ils ont besoin : Comment peut-il en être autrement ? Ah ! Si ! Je me souviens de missions dans laquelle j'ai été recruté pour aider à fabriquer un logiciel et j'ai attendu trois jours pour avoir un ordinateur... J'ai eu le temps d'apprendre la spec de quatre pages par coeur... Tu sais qu'il y a aussi ces endroits dans lesquels on te dit : en fait, débrouille toi tout seul. Ou personne ne te répond. Comment peut-on espérer livrer quelque chose dans ces conditions ?
 
 Mais peut-être que le plus important est dans le « Faites leur confiance pour atteindre les objectifs visés ».
 
-On commence par définir l’objectif puis charge à l’équipe, à chaque participant, de faire en sorte d’atteindre l’objectif s’ils l’acceptent.
+On commence par définir l'objectif puis charge à l'équipe, à chaque participant, de faire en sorte d'atteindre l'objectif s'ils l'acceptent.
 
-La clef est dans la confiance. La question de la confiance est à mes yeux le point cardinal, l’alpha et l’oméga de l’agilité. Ça commence par là et ça finit par là. C’est à dire qu’elle est un pré-requis à l’agilité et quand l’agilité part en sucette, on finit presque toujours par remonter sur un problème de confiance.
+La clef est dans la confiance. La question de la confiance est à mes yeux le point cardinal, l'alpha et l'oméga de l'agilité. Ça commence par là et ça finit par là. C'est-à-dire qu'elle est un pré-requis à l'agilité et quand l'agilité part en sucette, on finit presque toujours par remonter sur un problème de confiance.
 
 Est-il possible de travailler sur un projet sans se faire confiance ?
 
-Même si cela me semble inconcevable, il faut admettre que oui. Ce type d’endroit existe. Et les gens qui y travaillent livrent des choses malgré la défiance qui y règne. Parfois tu fais même attention à ton collègue de cube : tu ne sais pas d’où viendra le prochain coup de couteau...
+Même si cela me semble inconcevable, il faut admettre que oui. Ce type d'endroit existe. Et les gens qui y travaillent livrent des choses malgré la défiance qui y règne. Parfois tu fais même attention à ton collègue de cube : tu ne sais pas d'où viendra le prochain coup de couteau...
 
-Alors oui, ils livrent. Mais quelle est l’efficacité ?
+Alors, oui, ils livrent. Mais quelle est l'efficacité ?
 
-Quelle quantité d’énergie pour arriver au résultat ? J’ai vu des endroits où le travail de 10 personnes pouvait être fait par 2. Qui peut encore se permettre ce genre de gaspillage?
+Quelle quantité d'énergie pour arriver au résultat ? J'ai vu des endroits où le travail de 10 personnes pouvait être fait par 2. Qui peut encore se permettre ce genre de gaspillage ?
 
-La confiance est un réel enjeux : c’est un postulat de base. Et dans les moments difficiles, c’est cette confiance qui sera mise à l’épreuve. Par exemple quand tu commences à te poser des questions du genre : il bosse où il fait du Facebook ?
+La confiance est un réel enjeux : c'est un postulat de base. Et dans les moments difficiles, c'est cette confiance qui sera mise à l'épreuve. Par exemple quand tu commences à te poser des questions du genre : il bosse où il fait du Facebook ?
 
-Alors attention la confiance n’exclue pas le contrôle, bien au contraire. La confiance sans contrôle, c’est une connerie.
+Alors, attention la confiance n'exclue pas le contrôle, bien au contraire. La confiance sans contrôle, c'est une connerie.
 
-Ce qui permet la confiance, ce n’est pas un voeux pieu fait en aveugle. Ce n’est pas non plus d’ignorer le facteur humain. C’est justement le contrôle. C’est par-ce que je peux contrôler que je peux faire confiance.
+Ce qui permet la confiance, ce n'est pas un voeux pieu fait en aveugle. Ce n'est pas non plus d'ignorer le facteur humain. C'est justement le contrôle. C'est parce que je peux contrôler que je peux faire confiance.
 
-Attention : je ne parle pas de fliquer les gens avec des badgeuses. Ou passer son temps en réunion pour expliquer ce qui s’est passé.
+Attention : je ne parle pas de fliquer les gens avec des badgeuses ou passer son temps en réunion pour expliquer ce qui s'est passé.
 
-En fait cela pose la question de la mesure : est-ce que tu mesure des moyens ou des résultats ?
+En fait cela pose la question de la mesure : est-ce que tu mesures des moyens ou des résultats ?
 
-En tant que développeur remote, j’ai deux moyens pour contrôler le travail :
+En tant que développeur remote, j'ai deux moyens pour contrôler le travail :
 
-- Qu’est-ce qui est livré ? La vérité est dans le code et les pull-request. - En face de ce qui a été livré, quel temps a été alloué ?
+- Qu'est-ce qui est livré ? La vérité est dans le code et les pull-request. - En face de ce qui a été livré, quel temps a été alloué ?
 
-Il y a donc bien sûr une notion de reporting et de transparence. Quand je travaille à la régie, mon client a accès au reporting de temps au quart d’heure.
+Il y a donc bien sûr une notion de reporting et de transparence. Quand je travaille à la régie, mon client a accès au reporting de temps au quart d'heure.
 
-Cela me semble essentiel pour nourrir la confiance. Car attention : elle se gagne lentement et se perd très vite. Et si tu laisses le doute s’immiscer, le facteur humain étant ce qu’il est, tu peux vite croire que l’autre est en train de t’enfumer. C’est justement le contrôle qui lève les doutes et permet donc la confiance.
+Cela me semble essentiel pour nourrir la confiance. Car attention : elle se gagne lentement et se perd très vite. Et si tu laisses le doute s'immiscer, le facteur humain étant ce qu'il est, tu peux vite croire que l'autre est en train de t'enfumer. C'est justement le contrôle qui lève les doutes et permet donc la confiance.
 
 ## 6 - Face à face
 
