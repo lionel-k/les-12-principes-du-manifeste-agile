@@ -228,37 +228,38 @@ Cela me semble essentiel pour nourrir la confiance. Car attention : elle se gagn
 
 Problème : comment je fais circuler le jus de cerveau ?
 
-Nous faisons un métier dont une part essentielle consiste à se comprendre mutuellement. Les échecs sur les projets viennent rarement de facteurs techniques. Un produit qui ne fait pas ce dont a besoin le client n’est pas un pb technique. Après il y a les bugs là c’est technique. Mais disons que les premiers temps il y en a peu…
+Nous faisons un métier dont une part essentielle consiste à se comprendre mutuellement. Les échecs sur les projets viennent rarement de facteurs techniques. Un produit qui ne fait pas ce qu' a besoin le client n'est pas un problème technique. Ensuite, il y a les bugs là c'est technique. Mais disons que les premiers temps il y en a peu…
 
-Pour transmettre le besoin, il y a le fameux cahier des charges du 20 ème siècle qui avait pour objectif de décrire le besoin de manière exhaustive. Ce cahier des charges cristallise l’idée qu’il est possible de transmettre de l’information via l’écriture. Oui, bien sûr.
+Pour transmettre le besoin, il y a le fameux cahier des charges du 20 ème siècle qui avait pour objectif de décrire le besoin de manière exhaustive. Ce cahier des charges cristallise l'idée qu'il est possible de transmettre de l'information via l'écriture. Oui, bien sûr.
 
 La question est : est-ce efficace ?
 
-Est-il efficace de passer du temps à écrire quelque chose qu’il faudra de toute façon prendre le temps de présenter ? Une bonne fois pour toute : arrête de croire qu’il suffit de décrire ce que tu veux dans un doc et l’envoyer aux développeurs pour recevoir un truc fini 1 mois plus tard !
+Est-il efficace de passer du temps à écrire quelque chose qu'il faudra de toute façon prendre le temps de présenter ? Une bonne fois pour toute : arrête de croire qu'il suffit de décrire ce que tu veux dans un document et l'envoyer aux développeurs pour recevoir un truc fini un mois plus tard !
 
-Ça marche aussi au sein de l’équipe : croire qu’il suffit de poster un message sur Basecamp pour que tout le monde s’approprie le sujet…
+Ça marche aussi au sein de l'équipe : croire qu'il suffit de poster un message sur Basecamp pour que tout le monde s'approprie le sujet…
 
-Tu n’écris pas un livre. Tu produis une information dont la durée de vie est assez limitée : une spécification reste rarement valide après la livraison si elle n’est pas mise à jour.
+Tu n'écris pas un livre. Tu produis une information dont la durée de vie est assez limitée : une spécification reste rarement valide après la livraison si elle n'est pas mise à jour.
 
-Je sais, ça peut paraître étrange, mais c’est comme ça. Est-ce que c’est grave ? Non, du tout : c’est juste que tout change tout le temps… C’est en fait une super opportunité de coller au plus prêt du besoin.
+Je sais, ça peut paraître étrange, mais c'est comme ça. Est-ce que c'est grave ? Non, du tout : c'est juste que tout change tout le temps… C'est en fait une super opportunité de coller au plus près du besoin.
 
-Alors plutôt que de passer toute cette énergie à écrire des choses, on fait comment ?
+Alors, plutôt que de passer toute cette énergie à écrire des choses, on fait comment ?
 
-Le Principe #6 du manifeste nous dit:
+Le Principe #6 du manifeste nous dit :
 
-_La méthode la plus simple et la plus efficace pour transmettre de l’information à l'équipe de développement et à l’intérieur de celle-ci est le dialogue en face à face._
+_La méthode la plus simple et la plus efficace pour transmettre de l'information à l'équipe de développement et à l'intérieur de celle-ci est le dialogue en face à face._
 
-Il n’y a rien de tel que l’échange direct pour transmettre de l’information. Il y a un double enjeux : le mode de communication : oral plutôt qu’écrit, synchrone plutôt qu’asynchrone.
+Il n'y a rien de tel que l'échange direct pour transmettre de l'information. Il y a un double enjeux : le mode de communication : oral plutôt qu'écrit, synchrone plutôt qu'asynchrone.
 
-- Oral : apporte le non verbal et l’essentiel de la communication. - Synchrone : permet une boucle de rétroaction rapide en donnant du feedback. Je peux ajuster les choses si je vois que mon interlocuteur ne comprend pa ou interagit avec moi.
+- Oral : apporte le non-verbal et l'essentiel de la communication.
+- Synchrone : permet une boucle de rétroaction rapide en donnant du feedback. Je peux ajuster les choses si je vois que mon interlocuteur ne comprend pas ou interagit avec moi.
 
 Est-il toujours adéquat de tout faire comme ça ?
 
-Je ne pense pas. Parfois l’écrit asynchrone a des avantages : L’écrit force à poser une réflexion et le côté asyncrhone permet à chacun de suivre son rythme de travail.
+Je ne pense pas. Parfois l'écrit asynchrone a des avantages : L'écrit force à poser une réflexion et le côté asynchrone permet à chacun de suivre son rythme de travail.
 
-Je suis toujours à la recherche du meilleur compromis temps investi / efficacité / contraintes imposées. Mon souci permanent est l’optimisation des ressources. Dans un contexte de rareté, il faut les utiliser à bon escient. Et dans les startups, la rareté est toujours marquée !
+Je suis toujours à la recherche du meilleur compromis temps investi / efficacité / contraintes imposées. Mon souci permanent est l'optimisation des ressources. Dans un contexte de rareté, il faut les utiliser à bon escient. Et dans les startups, la rareté est toujours marquée !
 
-C’est un équilibre instable qui va évoluer selon les phases du projets, la maturité et la taille de l’équipe. L’important est de rester souple et s’adapter en cours de route !
+C'est un équilibre instable qui va évoluer selon les phases du projets, la maturité et la taille de l'équipe. L'important est de rester souple et s'adapter en cours de route !
 
 ## 7 - Un logiciel opérationnel
 
