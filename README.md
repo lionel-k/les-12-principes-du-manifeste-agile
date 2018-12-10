@@ -311,75 +311,75 @@ Bref, livre régulièrement du code qui marche !
 
 ## 8 - Rythme soutenable
 
-J’ai surtout bossé dans des environnements de startup dans lesquels le temps joue contre nous. La raison principale étant qu’on consomme du cash sans forcement remplir les caisses. Du coup ça met beaucoup de pression.
+J'ai surtout bossé dans des environnements de startup dans lesquels le temps joue contre nous. La raison principale étant qu'on consomme du cash sans forcement remplir les caisses. Du coup ça met beaucoup de pression.
 
-Je pensais que dans les autres boites classiques avec des business model rentables, c’était différent. Et bien non…
+Je pensais que dans les autres boites classiques avec des business model rentables, c'était différent. Et bien non…
 
-Je remarque qu’il y a souvent ce que j’appelle le syndrome du lapin blanc : on est tout le temps en retard. Alors parfois je pose la question : en retard par rapport à quoi ? J’ai souvent des yeux hagards, un peu perdus, comme si ma question était incongrue. Etre en retard pose la question de la référence.
+Je remarque qu'il y a souvent ce que j'appelle le syndrome du lapin blanc : on est tout le temps en retard. Alors, parfois je pose la question : en retard par rapport à quoi ? J'ai souvent des yeux hagards, un peu perdus, comme si ma question était incongrue. Être en retard pose la question de la référence.
 
-Et c’est là que le bas blesse.
+Et c'est là que le bas blesse.
 
-Car bien souvent on est en retard par rapport à des choses qui se sont passées en amont du projet. En retard par rapport à un planning cadré par des accords commerciaux, avant même de s’être posé la question de la faisabilité. En retard par rapport à des estimations fausses par manque de compétence, d’information ou de connaissance du projet. Et du coup la réponse à ce moment est souvent la même : il faut bosser plus pour rattraper le retard.
+Car bien souvent on est en retard par rapport à des choses qui se sont passées en amont du projet. En retard par rapport à un planning cadré par des accords commerciaux, avant même de s'être posé la question de la faisabilité. En retard par rapport à des estimations fausses par manque de compétence, d'information ou de connaissance du projet. Et du coup la réponse à ce moment est souvent la même : il faut bosser plus pour rattraper le retard.
 
-Je dois reconnaitre une chose : les coup de bourre ont l’avantage de souder une équipe. Par contre attention : l’équipe fait partie des livrables…. Si l’équipe se défonce pour sortir une itération, comment va-t-elle rempiler le lendemain ?
+Je dois reconnaitre une chose : les coups de bourre ont l'avantage de souder une équipe. Par contre, attention : l'équipe fait partie des livrables…. Si l'équipe se défonce pour sortir une itération, comment va-t-elle rempiler le lendemain ?
 
-A quoi bon foncer si c’est pour devoir ralentir le rythme après ?
+A quoi bon foncer si c'est pour devoir ralentir le rythme après ?
 
-La seule raison qui me paraisse valable, c’est de devoir tenir une date forte comme un lancement, un plan de com ou une livraison client. Par contre attention : c’est le signe que quelque chose ne va pas.
+La seule raison qui me paraisse valable, c'est de devoir tenir une date forte comme un lancement, un plan de communication ou une livraison client. Par contre, attention : c'est le signe que quelque chose ne va pas.
 
-Et d’ailleurs le manifeste nous dit :
+Et d'ailleurs le manifeste nous dit :
 
 _Les processus Agiles encouragent un rythme de développement soutenable. Ensemble, les commanditaires, les développeurs et les utilisateurs devraient être capables de maintenir indéfiniment un rythme constant._
 
 Mais pourquoi ?
 
-Après tout, vous pourriez me dire : c’est fun. Work hard, play hard ! Et puis on a toute la mort pour se reposer…
+Après tout, vous pourriez me dire : c'est fun. Work hard, play hard ! Et puis on a toute la mort pour se reposer…
 
 Sauf que :
 
-- A trop tirer sur la corde, tu ne sais pas quand elle va casser. Et c’est jamais au bon moment. - Quelle est la qualité de ce que tu fabriques quand tu es fatigué ? Tu vois le cercle vicieux arriver : tu es fatigué donc tu produis tu moins bon code. Donc des bugs arrivent qui te ralentissent encore plus. Donc tu bosses encore plus pour compenser. Tu t’épuises d’autant plus et tu es encore plus fatigué. Tu est fatigué donc tu fais des erreurs… Etc… - Last but not least : au delà des enjeux humain, c’est aussi une question de devenir prévisible. Si tu fais le yo-yo dans ta vélocité en alternant les sprints de rush et les sprints de repos, l’équipe n’est pas prévisible. Or c’est bien l’enjeux à un moment : permettre de donner de la visibilité aux décideurs.
+- A trop tirer sur la corde, tu ne sais pas quand elle va casser. Et ce n'est jamais au bon moment. - Quelle est la qualité de ce que tu fabriques quand tu es fatigué ? Tu vois le cercle vicieux arriver : tu es fatigué donc tu produis du moins bon code. Donc des bugs arrivent qui te ralentissent encore plus. Donc tu bosses encore plus pour compenser. Tu t'épuises d'autant plus et tu es encore plus fatigué. Tu es fatigué donc tu fais des erreurs… Etc… - Last but not least : au-delà des enjeux humains, c'est aussi une question de devenir prévisible. Si tu fais le yo-yo dans ta vélocité en alternant les sprints de rush et les sprints de repos, l'équipe n'est pas prévisible. Or c'est bien l'enjeux à un moment : permettre de donner de la visibilité aux décideurs.
 
 Donc on retrouve cette idée de rythme constant. Mais il y a une autre notion : indéfiniment.
 
 On est là pour longtemps.
 
-C’est comme faire un marathon en courant à la vitesse d’un sprint. J’ai testé et c’est une très mauvaise idée : j’ai couru la première heure à 100% de ma fréquence cardiaque max. Après le 26 ème km, la suite a été très dure…
+C'est comme faire un marathon en courant à la vitesse d'un sprint. J'ai testé et c'est une très mauvaise idée : j'ai couru la première heure à 100 % de ma fréquence cardiaque max. Après le 26 ème km, la suite a été très dure…
 
-Bref : viser un rythme soutenable, c’est trouver le bon compromis entre donner le meilleur de soi et garder de l’énergie sur la durée.
+Bref : viser un rythme soutenable, c'est trouvé le bon compromis entre donner le meilleur de soi et garder de l'énergie sur la durée.
 
 ## 9 - Excellence technique
 
 Le côté peut-être le plus novateur du manifeste tient pour moi à son côté itératif et incrémental.
 
-Ce sont ces notions qui sont les plus dures à faire comprendre. Je veux dire vraiment. C’est pourtant dingue car le monde du vivant est itératif et incrémental. Avec le printemps la maison ressemble à une arche de Noé. Poussins, canetons et chatons envahissent la maison le temps de prendre des forces et aller vivre leur vie dans la nature. Les lapins eux restent dans leur clapier ! Ils sont nés complets. Ils vont grandir. Et bien entendu à la naissance, ils ne peuvent pas encore faire tout ce qu’il pourront faire plus tard… Les chatons ne peuvent même pas encore ouvrir leurs yeux… Difficile d’explorer le monde. De toute façon ils tiennent à peine sur leur pattes. Mais plus tard, plusieurs cycles quotidiens et annuels après, ils pourront faire beaucoup plus de choses.
+Ce sont ces notions qui sont les plus dures à faire comprendre. Je veux dire vraiment. C'est pourtant dingue, car le monde du vivant est itératif et incrémental. Avec le printemps la maison ressemble à une arche de Noé. Poussins, canetons et chatons envahissent la maison le temps de prendre des forces et aller vivre leur vie dans la nature. Les lapins eux restent dans leur clapier ! Ils sont nés complets. Ils vont grandir. Et bien entendu à la naissance, ils ne peuvent pas encore faire tout ce qu'il pourront faire plus tard… Les chatons ne peuvent même pas encore ouvrir leurs yeux… Difficile d'explorer le monde. De toute façon ils tiennent à peine sur leurs pattes. Mais plus tard, plusieurs cycles quotidiens et annuels après, ils pourront faire beaucoup plus de choses.
 
-L’agilité apporte des cycles beaucoup plus courts que les approches type cycle en V. Ils s’adaptent en continu au contexte.
+L'agilité apporte des cycles beaucoup plus courts que les approches type cycle en V. Ils s'adaptent en continu au contexte.
 
 Sauf que…
 
 Pour accélérer, cela demande de la maitrise !
 
-Si tu met un kit nitroglycérine sur ta 2cv, tu vas aller plus vite, mais est-ce que tu a vraiment envie de rouler à 200km/ h avec une 2cv ? Si tu attaques un virage avec des pneus lisses, tu as plutôt intérêt à rouler tranquille, pas faire le fou à te croire sur un circuit… J’ai essayé et ça a mal fini !
+Si tu mets un kit nitroglycérine sur ta 2cv, tu vas aller plus vite, mais est-ce que tu as vraiment envie de rouler à 200km/h avec une 2cv ? Si tu attaques un virage avec des pneus lisses, tu as plutôt intérêt à rouler tranquille, pas faire le fou à te croire sur un circuit… J'ai essayé et cela a mal fini !
 
 Principe #9 du manifeste :
 
-_Une attention continue à l'excellence technique et à une bonne conception renforce l’Agilité._
+_Une attention continue à l'excellence technique et à une bonne conception renforce l'Agilité._
 
-L’excellence technique est ce qui te donne la maîtrise. Sans maîtrise la puissance n’est rien. Si tu pédales plus vite dans une fosse à purin, tu vas juste en mettre partout. Pas vider la fosse…
+L'excellence technique est ce qui te donne la maîtrise. Sans maîtrise la puissance n'est rien. Si tu pédales plus vite dans une fosse à purin, tu vas juste en mettre partout. Pas vider la fosse…
 
-C’est le grand reproche que je fais à SCRUM. Il balaie la dimension d’une technique d’un revers de main : on recrute des gens compétents qui font bien le boulot.
+C'est le grand reproche que je fais à SCRUM. Il balaie la dimension d'une technique d'un revers de main : on recrute des gens compétents qui font bien le boulot.
 
 Voilà.
 
 Problème réglé.
 
-Circulez, y’a rien à voir.
+Circulez, il n'y a rien à voir.
 
-Pourtant dans l’adoption des pratiques agiles, les pratiques techniques sont les moins adoptées. Je me suis longtemps posé la question du pourquoi. C’est une interprétation très personnelle que je te livre. Je pense qu’il y a plusieurs facteurs :
+Pourtant, dans l'adoption des pratiques agiles, les pratiques techniques sont les moins adoptées. Je me suis longtemps posé la question du pourquoi. C'est une interprétation très personnelle que je te livre. Je pense qu'il y a plusieurs facteurs :
 
-- Ça ne se voit pas. Ou moins. Ou pas tout de suite. Un board, des rituels, ça se voit tout de suite. C’est visible. Alors que du code propre, ça ne va pas se voir. A la rigueur, du code crade va se faire sentir. On parle de code smell. D’abord des développeurs. Mais si ça pourrie trop, ça va aussi se sentir par les utilisateurs ! Mais du code propre, c’est perçu comme normal. Le truc c’est que dans la tête de beaucoup de monde, c’est normal qu’un développeur fasse du bon boulot. Y compris de la part des développeurs. Bah non. Ca s’apprend. Et c’est d’ailleurs loin d’être la norme. - J’ai une autre explication, complémentaire et peut-être plus importante : c’est aussi ce qui remet le plus en cause le développeur. Finalement tant qu’il s’agit de changer le fonctionnement du groupe, chacun garde sa cohérence interne. Mais changer les pratiques techniques, c’est remettre directement en cause le développeur dans l’intime. Et pas grand monde n’aime ça. Je pense que c’est agréable pour personne. Par contre certains ont compris que le bénéfice derrière était beaucoup plus grand que l’inconfort temporaire de se re-devenir débutant. Car sauf à tomber dans la marmite des bonnes pratiques à l’école ou dans la première expérience professionnelle, cela va demander parfois de déconstruire des années de d’expérience pour accepter de voir le monde et le travail sous un angle différent. C’est particulièrement vrai pour deux pratiques : le TDD et le pair-programming. Elle remettent tellement en question le développeur dans ses habitues qu’elles sont difficiles à s’approprier.
+- Ça ne se voit pas. Ou moins. Ou pas tout de suite. Un board, des rituels, ça se voit tout de suite. C'est visible. Alors que du code propre, ça ne va pas se voir. À la rigueur, du code crade va se faire sentir. On parle de code smell. D'abord, des développeurs. Mais si ça pourrie trop, ça va aussi se sentir par les utilisateurs ! Mais du code propre, c'est perçu comme normal. Le truc c'est que dans la tête de beaucoup de monde, c'est normal qu'un développeur fasse du bon boulot. Y compris de la part des développeurs. Bah non. Ça s'apprend. Et c'est d'ailleurs loin d'être la norme. - J'ai une autre explication, complémentaire et peut-être plus importante : c'est aussi ce qui remet le plus en cause le développeur. Finalement, tant qu'il s'agit de changer le fonctionnement du groupe, chacun garde sa cohérence interne. Mais changer les pratiques techniques, c'est remettre directement en cause le développeur dans l'intime. Et pas grand monde n'aime ça. Je pense que c'est agréable pour personne. Par contre, certains ont compris que le bénéfice derrière était beaucoup plus grand que l'inconfort temporaire de se re-devenir débutant. Car sauf à tomber dans la marmite de bonnes pratiques à l'école ou dans la première expérience professionnelle, cela va demander parfois de déconstruire des années d'expérience pour accepter de voir le monde et le travail sous un angle différent. C'est particulièrement vrai pour deux pratiques : le TDD et le pair-programming. Elles remettent tellement en question le développeur dans ses habitudes qu'elles sont difficiles à s'approprier.
 
-Bref, si tu veux garder la maitrise de ton projet, intéresse toi à l’excellence technique et va au-delà de tes peurs en acceptant la remise en cause.
+Bref, si tu veux garder la maitrise de ton projet, intéresses toi à l'excellence technique et va au-delà de tes peurs en acceptant la remise en cause.
 
 ## 10 - Faire simple
 
