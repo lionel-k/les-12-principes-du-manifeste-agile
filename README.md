@@ -168,7 +168,9 @@ Sans utilisateur, à quoi sert notre travail ?
 
 Si les utilisateurs et les développeurs sont trop éloignés :
 
-- on peut les oublier. Et réciproquement d'ailleurs. - on peut aussi faire des choses qui ne collent pas aux besoins : que ce soit la gestion du métier ou dans la manière de faire les choses. - on peut les percevoir comme des casses pied : j'avoue que cela a pu m'arriver quelques fois de pester contre certaines demandes...
+- on peut les oublier. Et réciproquement d'ailleurs.
+- on peut aussi faire des choses qui ne collent pas aux besoins : que ce soit la gestion du métier ou dans la manière de faire les choses.
+- on peut les percevoir comme des casses pied : j'avoue que cela a pu m'arriver quelques fois de pester contre certaines demandes...
 
 Faire grandir un logiciel est déjà un challenge sur le plan technique et cela absorbe beaucoup d'énergie.
 
@@ -190,7 +192,8 @@ _Réalisez les projets avec des personnes motivées. Fournissez-leur l'environne
 
 Cela me semble tellement une évidence, que je suis un peu sec...
 
-- Motivé : oui, évidemment... Si le collaborateur n'est pas motivé cela va prendre une énergie folle de l'impliquer, de vérifier son travail, d'attendre après lui. Sans compter les dégâts moins visibles : les petites remarques ci et là. La démotivation est une maladie contagieuse. - Fournissez leur l'environnement et le soutien dont ils ont besoin : Comment peut-il en être autrement ? Ah ! Si ! Je me souviens de missions dans laquelle j'ai été recruté pour aider à fabriquer un logiciel et j'ai attendu trois jours pour avoir un ordinateur... J'ai eu le temps d'apprendre la spec de quatre pages par coeur... Tu sais qu'il y a aussi ces endroits dans lesquels on te dit : en fait, débrouille toi tout seul. Ou personne ne te répond. Comment peut-on espérer livrer quelque chose dans ces conditions ?
+- Motivé : oui, évidemment... Si le collaborateur n'est pas motivé cela va prendre une énergie folle de l'impliquer, de vérifier son travail, d'attendre après lui. Sans compter les dégâts moins visibles : les petites remarques ci et là. La démotivation est une maladie contagieuse.
+- Fournissez leur l'environnement et le soutien dont ils ont besoin : Comment peut-il en être autrement ? Ah ! Si ! Je me souviens de missions dans laquelle j'ai été recruté pour aider à fabriquer un logiciel et j'ai attendu trois jours pour avoir un ordinateur... J'ai eu le temps d'apprendre la spec de quatre pages par coeur... Tu sais qu'il y a aussi ces endroits dans lesquels on te dit : en fait, débrouille toi tout seul. Ou personne ne te répond. Comment peut-on espérer livrer quelque chose dans ces conditions ?
 
 Mais peut-être que le plus important est dans le « Faites leur confiance pour atteindre les objectifs visés ».
 
@@ -218,7 +221,8 @@ En fait cela pose la question de la mesure : est-ce que tu mesures des moyens ou
 
 En tant que développeur remote, j'ai deux moyens pour contrôler le travail :
 
-- Qu'est-ce qui est livré ? La vérité est dans le code et les pull-request. - En face de ce qui a été livré, quel temps a été alloué ?
+- Qu'est-ce qui est livré ? La vérité est dans le code et les pull-request.
+- En face de ce qui a été livré, quel temps a été alloué ?
 
 Il y a donc bien sûr une notion de reporting et de transparence. Quand je travaille à la régie, mon client a accès au reporting de temps au quart d'heure.
 
