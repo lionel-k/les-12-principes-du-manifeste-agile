@@ -263,49 +263,49 @@ C'est un équilibre instable qui va évoluer selon les phases du projets, la mat
 
 ## 7 - Un logiciel opérationnel
 
-Comment tu mesures l’avancement du projet ?
+Comment tu mesures l'avancement du projet ?
 
 De manière classique, on utilise les estimations. Puis on les confronte à la réalité.
 
-Une première erreur est de mesurer en budget restant : Si j’ai une tâche estimée à 5h et que j’y ai passé dessus 2h, quel est mon budget restant ? Facile, 3h. Du coup tu peux suivre l’ensemble du backlog et des tâches à faire et dire : Ok sur un budget de 100 heures, on en a consommé 30, il en reste donc 70 à produire. Nous en sommes à 30%.
+Une première erreur est de mesurer en budget restant. Si j'ai une tâche estimée à 5h et que j'y ai passé dessus 2h, quel est mon budget restant ? Facile, 3h. Du coup tu peux suivre l'ensemble du backlog et des tâches à faire et dire : Ok sur un budget de 100 heures, on en a consommé 30, il en reste donc 70 à produire. Nous en sommes à 30 %.
 
-Et général tu touches la limite de cette approche dans la zone des 90% car tu te rends comptes que ça ne bouge plus. Et là tu rentre dans un tunnel. Et tu ne sais pas quand tu vas sortir.
+Et général tu touches la limite de cette approche dans la zone des 90 % car tu te rends comptes que ça ne bouge plus. Et là tu rentres dans un tunnel. Et tu ne sais pas quand tu vas sortir.
 
-C’est comme la barre de progression de windows : les 10 derniers % prennent plus de temps que les 90 premiers...
+C'est comme la barre de progression de windows : les 10 derniers % prennent plus de temps que les 90 premiers...
 
-Une autre approche beaucoup plus intéressante, c’est le reste à faire. Sur une tâche de 5h, si tu en as consommé 2h, quel est le reste à faire ?
+Une autre approche beaucoup plus intéressante, c'est le reste à faire. Sur une tâche de 5h, si tu en as consommé 2h, quel est le reste à faire ?
 
-C’est plus compliqué. Tu as envie de répondre 3h ?
+C'est plus compliqué. Tu as envie de répondre 3h ?
 
-Bah peut-être. Ou pas. Peut-être qu’en fait il n’en reste qu’une. Bonne surprise. Ou 7. Mauvaise mayonnaise.
+Bah peut-être. Ou pas. Peut-être qu'en fait il n'en reste qu'une. Bonne surprise. Ou 7. Mauvaise mayonnaise.
 
-Mais au moins tu as une vision la plus réaliste possible de l’avancée. Du coup tu peux donner une idée de l’avancée du projet en pointant régulièrement le reste à faire.
+Mais au moins tu as une vision la plus réaliste possible de l'avancée. Du coup tu peux donner une idée de l'avancée du projet en pointant régulièrement le reste à faire.
 
-Le reste à faire associé à un burndown chart est un excellent outil de prévision : il coûte presque rien à mettre à jour et permet de rendre visible l’invisible.
+Le reste à faire associé à un burndown chart est un excellent outil de prévision : il ne coûte presque rien à mettre à jour et permet de rendre visible l'invisible.
 
-C’est déjà bien. Est-ce qu’on pourrait faire encore mieux ?
+C'est déjà bien. Est-ce qu'on pourrait faire encore mieux ?
 
-Le 7ème principe du manifeste nous dit :
+Le septième principe du manifeste nous dit :
 
-_Un logiciel opérationnel est la principale mesure d’avancement._
+_Un logiciel opérationnel est la principale mesure d'avancement._
 
-Tu peux avoir tous les plan budgets du monde et les reste à faire les plus précis, tant que tu n’as pas un logiciel fonctionnel dans les mains, tu n’as rien. Je doute que ton client ou patron te paye pour mettre à jour des reste à faire…
+Tu peux avoir tous les plans budgets du monde et les restes à faire les plus précis, tant que tu n'as pas un logiciel fonctionnel dans les mains, tu n'as rien. Je doute que ton client ou patron te paye pour mettre à jour des restes à faire…
 
-A priori, tu es payé pour livrer du code qui marche. Et c’est pour moi la meilleure manière de savoir si le projet avance. C’est pour ça que je refuse de repousser une date de livraison. Je préfère livrer 2 fois moins de choses que prévu et livrer quand même.
+A priori, tu es payé pour livrer du code qui marche. Et c'est pour moi la meilleure manière de savoir si le projet avance. C'est pour ça que je refuse de repousser une date de livraison. Je préfère livrer deux fois moins de choses que prévu et livrer quand même.
 
-Pour cela il faut travailler en itérations courtes. Et livrer à chaque fois quelque chose. Si tu tombes dans le piège du genre : _« ben cette semaine on livre la base de données. Tu comprends ce sont les fondations. Est-ce que les utilisateurs pourront y accéder ? Bah non, y’a pas d’IHM. »_
+Pour cela il faut travailler en itérations courtes. Et livrer à chaque fois quelque chose. Si tu tombes dans le piège du genre : _« ben cette semaine on livre la base de données. Tu comprends ce sont les fondations. Est-ce que les utilisateurs pourront y accéder ? Bah non, il n'ya pas d'IHM. »_
 
 Là tu sais que ton projet va droit dans le mur.
 
-Par contre si tu livres user story par use story, quitte à devoir reprendre certains morceaux quand d’autres concepts auront émergé, alors tu peux sentir que tu avances dans le regard de tes utilisateurs.
+Par contre, si tu livres user story par user story, quitte à devoir reprendre certains morceaux quand d'autres concepts auront émergé, alors tu peux sentir que tu avances dans le regard de tes utilisateurs.
 
 De toute façon tout prend plus de temps que prévu.
 
-Tu as beau tout prévoir, t’auras jamais tout prévu. Alors autant s’adapter au plus juste.
+Tu as beau tout prévoir, t'auras jamais tout prévu. Alors, autant s'adapter au plus juste.
 
-Sur un côté plus technique, c’est aussi pour ça que j’aime tant le tdd : il me donne une mesure objective de ma progression. En particulier quand j’automatise les tests d’acceptance. Encore Vendredi dernier. J’avais un algorithme à écrire. Je me mets d’accord avec l’expert métier sur 12 cas de test. Au fur et à mesure que mes tests passaient, je savais que je progressais.
+Sur un côté plus technique, c'est aussi pour ça que j'aime tant le TDD : il me donne une mesure objective de ma progression. En particulier quand j'automatise les tests d'acceptance. Encore Vendredi dernier. J'avais un algorithme à écrire. Je me mets d'accord avec l'expert métier sur 12 cas de test. Au fur et à mesure que mes tests passaient, je savais que je progressais.
 
-Grâce au TDD, j’ai une acceptante automatisée, ce qui veut dire que je suis capable de livrer plusieurs fois par jour si besoin. Je peux comme ça coller au plus juste des besoins de mes utilisateurs.
+Grâce au TDD, j'ai une acceptante automatisée, ce qui veut dire que je suis capable de livrer plusieurs fois par jour si besoin. Je peux comme ça coller au plus juste des besoins de mes utilisateurs.
 
 Bref, livre régulièrement du code qui marche !
 
